@@ -46,6 +46,11 @@ h1{
   width: 75%;
 }
 
+.imgcaption {
+    text-align: center;
+    font-size: small;
+}
+
 .column {
     float: left;
     width: 50%;
