@@ -73,3 +73,23 @@ h1{
     font-size: medium;
     text-align: left;
 }
+
+.sound-text {
+    font-family: sans-serif;
+    font-size: large;
+    text-align: left;
+    vertical-align: top;
+}
+
+.sound-container {
+  display: flex; /* Activates flexbox */
+  justify-content:left; /* Distributes items evenly with space around them */
+  align-items: center; /* Centers items vertically within the container */
+  height: 80px;
+}
+
+.sound-item {
+  padding: 5px;
+  margin: 10px;
+  font-size: 14px;
+}
